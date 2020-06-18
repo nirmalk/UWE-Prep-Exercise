@@ -24,5 +24,14 @@
     <ClCompile Include="Random Calculate Freq.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Random Calculate Odd Even Dist.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Random Double Digit Freq.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Random Gap Test.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

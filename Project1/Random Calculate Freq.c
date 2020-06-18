@@ -14,7 +14,7 @@ int random_number = (int) (10.0*rand()/(RAND_MAX + 1.0));
 void calc_frequency(int *random_array, int *random_freq, int array_size) {
 	int n;
 
-	// get the array of random numbers
+	// get the array of random numbers and check each for its value between 0 and 9
 	for (n = 0; n < array_size; n++) {
 		random_array[n] = (int)(10.0 * rand() / (RAND_MAX + 1.0));
 
